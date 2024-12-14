@@ -7,12 +7,8 @@ int value=1;
 {
     for (int i = 0; i <5; i++)
     {
-        if(i==0){
-          a[e,i]= 0;
-           value++; 
-        }else{
-        a[e,i]= value++;
-            }
+       int b= value++;
+        a[e,i]= (i==0)?0:b;
       Console.Write($"{a[e,i]} " ); 
     }
 Console.WriteLine();
