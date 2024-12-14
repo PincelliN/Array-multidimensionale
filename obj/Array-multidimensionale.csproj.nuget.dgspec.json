@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pince\\documenti\\esercizi\\Array-multidimensionale\\Array-multidimensionale.csproj": {}
+    "C:\\Users\\pince\\Documents\\esercizi\\Array-multidimensionale\\Array-multidimensionale.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pince\\documenti\\esercizi\\Array-multidimensionale\\Array-multidimensionale.csproj": {
+    "C:\\Users\\pince\\Documents\\esercizi\\Array-multidimensionale\\Array-multidimensionale.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pince\\documenti\\esercizi\\Array-multidimensionale\\Array-multidimensionale.csproj",
+        "projectUniqueName": "C:\\Users\\pince\\Documents\\esercizi\\Array-multidimensionale\\Array-multidimensionale.csproj",
         "projectName": "Array-multidimensionale",
-        "projectPath": "C:\\Users\\pince\\documenti\\esercizi\\Array-multidimensionale\\Array-multidimensionale.csproj",
+        "projectPath": "C:\\Users\\pince\\Documents\\esercizi\\Array-multidimensionale\\Array-multidimensionale.csproj",
         "packagesPath": "C:\\Users\\pince\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pince\\documenti\\esercizi\\Array-multidimensionale\\obj\\",
+        "outputPath": "C:\\Users\\pince\\Documents\\esercizi\\Array-multidimensionale\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pince\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,15 @@
+C:\Users\pince\Documents\esercizi\Array-multidimensionale\obj\Debug\net8.0\Array-multidimensionale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pince\Documents\esercizi\Array-multidimensionale\obj\Debug\net8.0\Array-multidimensionale.AssemblyInfoInputs.cache
+C:\Users\pince\Documents\esercizi\Array-multidimensionale\obj\Debug\net8.0\Array-multidimensionale.AssemblyInfo.cs
+C:\Users\pince\Documents\esercizi\Array-multidimensionale\obj\Debug\net8.0\Array-multidimensionale.csproj.CoreCompileInputs.cache
+C:\Users\pince\Documents\esercizi\Array-multidimensionale\obj\Debug\net8.0\Array-multidimensionale.sourcelink.json
+C:\Users\pince\Documents\esercizi\Array-multidimensionale\bin\Debug\net8.0\Array-multidimensionale.exe
+C:\Users\pince\Documents\esercizi\Array-multidimensionale\bin\Debug\net8.0\Array-multidimensionale.deps.json
+C:\Users\pince\Documents\esercizi\Array-multidimensionale\bin\Debug\net8.0\Array-multidimensionale.runtimeconfig.json
+C:\Users\pince\Documents\esercizi\Array-multidimensionale\bin\Debug\net8.0\Array-multidimensionale.dll
+C:\Users\pince\Documents\esercizi\Array-multidimensionale\bin\Debug\net8.0\Array-multidimensionale.pdb
+C:\Users\pince\Documents\esercizi\Array-multidimensionale\obj\Debug\net8.0\Array-multidimensionale.dll
+C:\Users\pince\Documents\esercizi\Array-multidimensionale\obj\Debug\net8.0\refint\Array-multidimensionale.dll
+C:\Users\pince\Documents\esercizi\Array-multidimensionale\obj\Debug\net8.0\Array-multidimensionale.pdb
+C:\Users\pince\Documents\esercizi\Array-multidimensionale\obj\Debug\net8.0\Array-multidimensionale.genruntimeconfig.cache
+C:\Users\pince\Documents\esercizi\Array-multidimensionale\obj\Debug\net8.0\ref\Array-multidimensionale.dll
